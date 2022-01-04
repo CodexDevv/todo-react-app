@@ -1,4 +1,6 @@
-# My first React "project"
+# Todo React App
+
+### My first React "project"
 
 I followed this tutorial:
 https://www.youtube.com/watch?v=hQAHSlTtcmY -> Learn React In 30 Minutes by Web Dev Simplified
