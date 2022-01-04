@@ -1,15 +1,16 @@
 # Todo React App
 
-### My first React "project"
+<img src="https://i.imgur.com/bFcEGx0.png" width="400">
 
-I followed this tutorial:
-https://www.youtube.com/watch?v=hQAHSlTtcmY -> Learn React In 30 Minutes by Web Dev Simplified
+### My First React App
+
+[I followed this tutorial - Learn React In 30 Minutes by Web Dev Simplified](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
 ### Made my changes to it
 
 I've stylized it. Used animations, implemented keyboard shortcuts like:
-ENTER -> Add To-do
-DEL -> Clear List of To-do's
+- ENTER -> Add To-do
+- DEL -> Clear List of To-do's
 
 ### Packages used
 
