@@ -1,5 +1,7 @@
 # Todo React App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e159e42c-616b-4bfa-ae66-2e8ecd33f7d6/deploy-status)](https://codex-todo-app.netlify.app/)
+
 <img src="https://i.imgur.com/eU1HcyJ.png" width="400">
 
 ### My First React App
